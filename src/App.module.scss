@@ -1,5 +1,33 @@
 .app {
+
   h1 {
     text-align: center;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+
+    .rows {
+      display: flex;
+      flex-direction: row;
+
+      .cell {
+        width: 15px;
+        height: 15px;
+        background-color: white;
+        border: solid 1px black
+      }
+
+      .busyCell {
+        width: 15px;
+        height: 15px;
+        background-color: dimgray;
+        border: solid 1px black
+      }
+
+    }
   }
 }
