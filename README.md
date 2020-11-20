@@ -1,3 +1,10 @@
+На странице https://github.com/AndrewShapoval/game-of-life нажмите зеленую кнопку
+code, скопируйте SSH key и введите в консоли в новой папке: $ git clone (SSH key)
+Пример: $ git clone git@github.com:AndrewShapoval/game-of-life.git
+Затем откройте WebStorm и установите пакеты из package.json
+Готово! Наслаждайтесь игрой)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
