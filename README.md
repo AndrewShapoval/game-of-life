@@ -1,5 +1,5 @@
 На странице https://github.com/AndrewShapoval/game-of-life нажмите зеленую кнопку
-code, скопируйте SSH key и введите в консоли в новой папке: $ git clone (SSH key)
+code, скопируйте SSH key и введите в терминале в новой папке: $ git clone (SSH key)
 Пример: $ git clone git@github.com:AndrewShapoval/game-of-life.git
 Затем откройте WebStorm и установите пакеты из package.json
 Готово! Наслаждайтесь игрой)
